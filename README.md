@@ -1,4 +1,4 @@
-# 📰 Fake News Detection System
+i7# 📰 Fake News Detection System
 
 ## 📌 Description
 
@@ -25,7 +25,3 @@ This project detects whether a news article is fake or real using Machine Learni
 
 * NLP basics
 * Machine Learning workflow
-
-## 👩‍💻 Author
-
-Your Name
